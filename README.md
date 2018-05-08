@@ -1,0 +1,2 @@
+# Exercicios_Patterns
+Exercicios_Patterns
